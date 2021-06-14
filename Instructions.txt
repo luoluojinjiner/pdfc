@@ -1,0 +1,1 @@
+This is the main program of PDFC. Calling main.c, modifying the image address can automatically complete clustering and calculate the indicators.
